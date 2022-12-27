@@ -3,7 +3,9 @@ export const robots = [
       id: 1,
       name: 'Leanne Graham',
       username: 'Bret',
-      email: 'Sincere@april.biz'
+      email: 'Sincere@april.biz',
+    
+      
     },
     {
       id: 2,
@@ -47,12 +49,14 @@ export const robots = [
       username: 'Maxime_Nienow',
       email: 'Sherwood@rosamond.me'
     },
+
     {
       id: 9,
       name: 'Glenna Reichert',
       username: 'Delphine',
       email: 'Chaim_McDermott@dana.io'
     },
+
     {
       id: 10,
       name: 'Clementina DuBuque',
